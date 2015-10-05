@@ -18,7 +18,12 @@ Server side application and api is written in Node.js, using industry-standard f
 The database used in MongoDB (for fastness with Node.js), and static files are server from Amazon S3. 
 
 ##Status of work
-Now the project has been set-up, and the user interface for the admin was written in html 
+5-10-2015
+Now the project has been set-up, and the user interface for the admin was written in html. Some screenshots follows: 
+![alt tag](https://raw.githubusercontent.com/MorrisDa/HomeCucine/master/screenshot/cucina_create.png)
+![alt tag](https://raw.githubusercontent.com/MorrisDa/HomeCucine/master/screenshot/cucina_login.png)
+![alt tag](https://raw.githubusercontent.com/MorrisDa/HomeCucine/master/screenshot/cucine_edit.png)
+![alt tag](https://raw.githubusercontent.com/MorrisDa/HomeCucine/master/screenshot/image_upload.png)
 
 ##Status of this document. 
 5-10-2015
